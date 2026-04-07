@@ -29,7 +29,7 @@ O `OrderItem` atua como entidade intermediária, contendo:
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 * Criar usuários
 * Criar produtos
@@ -48,7 +48,7 @@ O `OrderItem` atua como entidade intermediária, contendo:
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
