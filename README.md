@@ -53,7 +53,7 @@ O `OrderItem` atua como entidade intermediária, contendo:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/order-management-jpa.git
+git clone https://github.com/tailer0549/order-management-jpa.git
 ```
 
 2. Abra o projeto em sua IDE (IntelliJ, Eclipse, etc)
